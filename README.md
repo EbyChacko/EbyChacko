@@ -9,9 +9,6 @@
 
 <p>I am currently learning Machine Learning.</p>
 
-<p>I am seeking a position as a junior software developer where I can continue to develop my skills and contribute to the success of the team.
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebychacko&label=Profile%20views&color=0e75b6&style=flat" alt="ebychacko" /> </p>
 
 <h4 align="left">Connect with me:</h4>
