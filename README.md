@@ -1,3 +1,4 @@
+![Banner Image for Kera Cudmore GitHub Profile](kera-cudmore-banner.png)
 <h1>Hi 👋, I'm Eby Chacko</h1>
 <h3>Full stack software developer | Python | django | Bootstrap | Flask | jQuery</h3>
 
