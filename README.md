@@ -1,4 +1,4 @@
-![Banner Image for Kera Cudmore GitHub Profile]([kera-cudmore-banner.png](https://res.cloudinary.com/dgd5gtn1w/image/upload/v1726609456/Linked%20in%20and%20Github%20profile/Linkedin_jykc1o.png))
+![Banner Image for Kera Cudmore GitHub Profile](https://res.cloudinary.com/dgd5gtn1w/image/upload/v1726609456/Linked%20in%20and%20Github%20profile/Linkedin_jykc1o.png)
 <h1>Hi 👋, I'm Eby Chacko</h1>
 <h3>Full stack software developer | Python | django | Bootstrap | Flask | jQuery</h3>
 
