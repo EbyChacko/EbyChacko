@@ -2,12 +2,8 @@
 <h1>Hi 👋, I'm Eby Chacko</h1>
 <h3>Full stack software developer | Python | django | Bootstrap | Flask | jQuery</h3>
 
-<p>
-  I am a Full stack Django developer with experience in graphic design. I have a passion for creating innovative solutions that meet the needs of clients. With 7 years of experience in graphic design and sales, I have developed strong communication skills that allow me to work effectively with clients and team members.</p>
-
-<p>My technical skills include proficiency in Python, Django, JavaScript, HTML/CSS, Bootstrap and SQL. </p>
-
-<p>I am currently learning Machine Learning.</p>
+I am a Full stack Python / Django developer with experience in graphic design. My technical skills include proficiency in Python, Django, JavaScript, SQL, Bootstrap and HTML/CSS. I am currently learning Machine Learning and React.
+With 7 years of experience in graphic design and sales, I have developed strong communication skills that allow me to work effectively with clients and team members. I have a passion for creating innovative solutions that meet the needs of clients.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebychacko&label=Profile%20views&color=0e75b6&style=flat" alt="ebychacko" /> </p>
 
@@ -18,22 +14,13 @@
 
 ### My Tech Stack
 
-#### I'm Currently Learning
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-#### 🎨 Designs & Wireframes
-
-![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 #### < > Programming Languages
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 
 
 #### 📚 Libraries & Frameworks
@@ -41,7 +28,6 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome%20-%23339AF0.svg?&style=for-the-badge&logo=Font%20Awesome&logoColor=FFFFFF)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 
@@ -51,10 +37,21 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+#### 🎨 Designs & Wireframes
+
+![Balsamiq](https://img.shields.io/badge/Balsamiq%20-%23A60000.svg?&style=for-the-badge&logo=Balsamiq&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 #### 🏡 Hosting
 
 ![GitHub Pages](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Pages&color=222222&logo=GitHub+Pages&logoColor=FFFFFF&label=)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
+
+
+#### I'm Currently Learning
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 #### 💻 Version Control, IDE's & Other Coding Content 
