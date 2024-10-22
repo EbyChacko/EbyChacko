@@ -2,8 +2,13 @@
 <h1>Hi 👋, I'm Eby Chacko</h1>
 <h3>Full stack software developer | Python | django | Bootstrap | Flask | jQuery</h3>
 
-<p>I am a Full stack Python / Django developer with experience in graphic design. My technical skills include proficiency in Python, Django, JavaScript, SQL, Bootstrap and HTML/CSS. I am currently learning Machine Learning and React.</p>
-<p>With 7 years of experience in graphic design and sales, I have developed strong communication skills that allow me to work effectively with clients and team members. I have a passion for creating innovative solutions that meet the needs of clients.</p>
+<p>I am a Full stack software developer with experience in graphic design. My technical skills include proficiency in Python, Django, JavaScript, React, SQL, Bootstrap and HTML/CSS. MY Current Interest Include Artificial Intelligence and Machine Learning.</p>
+
+<p>I’ve been a designer since I was 17, starting out with Graphic Desining & video editing. Design has always been a huge part of my life, and my passion for tech naturally pushed me to explore more. That’s why I pursued a degree in Computer Application.</p>
+
+<p>Recently, I decided to refresh my skills with a diploma in full-stack development, and now I’m a full-stack developer, diving deeper into both front-end and back-end technologies. I’m currently learning Artificial Intelligence, Machine Learning, and also self-teaching myself React to keep up with the latest tech trends.</p>
+
+<p>My journey from design to development is driven by a love for creativity and innovation, and I’m excited to keep growing in both fields.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebychacko&label=Profile%20views&color=0e75b6&style=flat" alt="ebychacko" /> </p>
 
