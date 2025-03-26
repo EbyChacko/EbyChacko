@@ -1,6 +1,6 @@
 ![Banner Image for Kera Cudmore GitHub Profile](https://res.cloudinary.com/dgd5gtn1w/image/upload/v1739294368/Linked%20in%20and%20Github%20profile/Linkedin_1_qvvhwx.png)
 <h1>Hi 👋, I'm Eby Chacko</h1>
-<h3>Full stack software developer | Python | django | Bootstrap | Flask | jQuery</h3>
+<h3>Full stack software developer | Python | django |Javascript | React | Bootstrap | Flask | jQuery</h3>
 
 <p>I am a Full stack software developer with experience in graphic design. My technical skills include proficiency in Python, Django, JavaScript, React, SQL, Bootstrap and HTML/CSS. MY Current Interest Include Artificial Intelligence and Machine Learning.</p>
 
